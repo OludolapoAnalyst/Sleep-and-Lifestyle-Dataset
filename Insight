@@ -1,0 +1,40 @@
+ABOUT THE  DATASET:    
+
+The Sleep Health and Lifestyle Dataset comprises of a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. 
+The dataset exhibits a predominant presence of young adults, specifically within the age range of 30 to 39, constituting the majority (38%) of the population. Gender distribution indicates a slightly higher representation of females (51%) compared to males (49%). It highlights 11 occupations among 374 persons with an average age of 42. 
+Please note that the dataset presented is synthetic and created by the author for illustrative purposes. 
+
+Data source:  https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
+BUSINESS QUESTIONS:
+
+Are there specific trends in sleep patterns among different age groups or professions?
+What is the prevalence of insomnia and sleep apnea among different age groups and professions?
+Are there correlations between sleep disorders and lifestyle factors, such as stress levels or physical activity levels?
+How can companies implement preventive measures and interventions to address sleep disorders and improve overall employee health and well-being?
+How does physical activity level correlate with stress levels and BMI categories?
+Are there associations between stress levels and specific occupations?
+What is the impact of BMI categories on workplace performance, and how can organizations promote a healthier BMI distribution among their workforce?
+What trends in blood pressure and heart rate measurements exist across different occupational groups?
+How can companies use cardiovascular health data to tailor health initiatives and reduce the risk of cardiovascular-related issues among employees?
+
+INSIGHTS:
+
+Professions such as Nursing and Managerial roles showcase a 100% female dominance, while Salesperson, Software Engineer, and Sales Representative roles are exclusively occupied by males. Among the 11 represented occupations, Nurse (20%), Doctor (19%), Engineer (17%), Lawyer (13%), and Teacher (11%) constitute the top five. Accountants make up 10%, Salespersons 9%, and the bottom four—Scientists, Software Engineers, Sales Representatives, and Managers—each comprise less than or equal to 1%.
+
+Sleep :
+The dataset suggests that sleep disorders such as insomnia and sleep apnea vary across genders, age groups and professions. 
+The quality of sleep is notably affected by occupation, with Engineers, Lawyers, Nurses, Accountants, and Doctors ranking highest in sleep quality. The analysis reveals a significant prevalence of sleep apnea among females (87%), particularly among those aged between 50 and 59 (Old Adults).  On the other hand, 53% of males have developed insomnia, characterized by difficulty falling or staying asleep, while 60% of males do not exhibit any specific sleep disorder, with a greater proportion of them being young adults. Tailoring interventions to address these specific sleep disorders can contribute to improved sleep patterns among employees.
+
+Lifestyle :
+Physical activity levels are associated with BMI categories, with overweight and normal weight individuals walking between 6800 and 7000 steps per day whereas those who walk fewer steps (about 3000) are categorized as Obese. Initiatives promoting physical activity may contribute to healthier lifestyles and potentially lower stress levels. Persons with low walk steps per day recorded a heart rate of 85bpm while steps, which are as high as 8100 steps per day reflects a heart rate of 72bpm, indicating that the heart rates observed are influenced by other factors than the number of steps walked. 
+Across age groups, youths and young adults (ages 30 to 49) tend to lead more sedentary lifestyles compared to other age groups. Surprisingly, Old Adults (ages 50 to 59) display a trend towards being more moderately active than sedentary.
+The dataset indicates that stress levels vary among occupations. Also, noteworthy is the gender-based disparity in stress levels, with more men exhibiting higher stress levels compared to women. Conversely, a greater proportion of women (compared to men) maintain a lifestyle with stress levels lower than 5. Occupation-wise, Nurses average about 8000 steps per day, whereas Sales Representatives demonstrate lower mobility with an average of 3000 steps per day. Additionally, Sales Representatives exhibit the highest resting heart rate among occupations, recorded at 85 beats per minute.
+Sleep quality significantly influences stress levels, with little stress reported in individuals with a high sleep quality of 80%. Conversely, a drop in sleep quality to about 6% corresponds to a highly stressful lifestyle across all occupations. The top five occupations with the highest sleep quality are Engineers, Lawyers, Nurses, Accountants, and Doctors. 
+A BMI distribution indicates that a little over half the sample falls within the Normal BMI category (52%), while 40% are classified as Overweight and 3% are Obese. 
+
+Cardiovascular Health:
+Blood pressure measurements are provided, and expressed as systolic pressure over diastolic pressure. with the three most frequent measurements highlighted as130/85, 125/80, and 140/95.
+
+SUMMARY:
+This analysis shows that occupations exhibit gender and sleep quality disparities. Employers can utilize the insights gotten from this analysis  of lifestyle factors such as stress, physical activity, and BMI impact overall well-being and interventions to target sleep disorders, stress reduction, promote healthier lifestyles and enhance employee health and productivity. 
